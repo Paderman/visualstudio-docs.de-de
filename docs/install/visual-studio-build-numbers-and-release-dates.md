@@ -25,6 +25,12 @@ In der folgenden Tabelle werden die bisherigen Buildnummern und Veröffentlichun
 
 | **Version**| **Kanal** | **Veröffentlichungsdatum** | **Buildversion** |
 | ---------------------- | ----------- | ---------------- | ----------------- |
+| 15.6.4 | Release | 22. März 2018 | 15.6.27428.2015 |
+| 15.7.0 Vorschauversion 2.0 | Vorschau | 21. März 2018 | 15.7.27520.0 |
+| 15.6.3 | Release | März 19 2018 | 15.6.27428.2011 |
+| 15.7.0 Vorschauversion 1.0 | Vorschau | 13. März 2018 | 15.7.27512.0 |
+| 15.6.2 | Release | 13 März 2018 | 15.6.27428.2005 |
+| 15.0.11 | Release | 13 März 2018 | 15.0.26228.29 |
 | 15.6.1 | Release | 08. März 2018 | 15.6.27428.2002 |
 | 15.6.1 Vorschauversion 1.0 | Vorschau | 08. März 2018 | 15.6.27428.2002 |
 | 15.6.0 | Release | 05. März 2018 | 15.6.27428.1 |
